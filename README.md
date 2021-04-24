@@ -5,9 +5,10 @@
 ### 2021.04.24
 * experiment. Transformer vs Reformer.
 
-  * data set used in Transformer
-    * ㅇ왜
-    
+  * data set used in algorithm.
+    * standard WMT 2014 English-German dataset which contains 4.5 million sentence paiars. used by two algorithm.
+  
+  * two algorithm are compared using machine translation problem.
   
 
 
