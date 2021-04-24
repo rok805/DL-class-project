@@ -6,7 +6,7 @@
 * experiment. Transformer vs Reformer.
 
   * data set used in Transformer
-    *d
+    * ㅇ왜
     
   
 
