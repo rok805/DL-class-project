@@ -12,7 +12,8 @@
  
 * brain storming
 
-  * df
+  * compare performance between transformer and reformer.
+  * how? find dataset, performance measure
 
 reference)
 Transformer: Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser, Illia Polosukhin. (2017). Attention is all you need. arXiv preprint arXiv:1706.03762.
